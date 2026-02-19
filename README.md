@@ -1,2 +1,13 @@
-# qa-portfolio-manual
-Portfolio QA Manual: casos de prueba, reportes de bugs y pruebas básicas de APIs (Postman/Swagger).
+# QA Manual Portfolio
+
+Este repositorio contiene ejemplos de pruebas manuales, casos de prueba y reportes de bugs realizados como práctica personal.
+
+Incluye:
+- Casos de prueba funcionales
+- Reportes de bugs
+- Pruebas básicas de APIs
+
+Herramientas utilizadas:
+- Testing manual
+- Postman / Swagger
+- Documentación funcional
